@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\bin\Debug\netcoreapp3.1\homework introduction.exe
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\bin\Debug\netcoreapp3.1\homework introduction.deps.json
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\bin\Debug\netcoreapp3.1\homework introduction.runtimeconfig.json
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\bin\Debug\netcoreapp3.1\homework introduction.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\bin\Debug\netcoreapp3.1\homework introduction.dll
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\bin\Debug\netcoreapp3.1\homework introduction.pdb
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.dll
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.pdb
+C:\Users\ASUS\source\repos\C# homework introduction\homework introduction\homework introduction\obj\Debug\netcoreapp3.1\homework introduction.genruntimeconfig.cache
